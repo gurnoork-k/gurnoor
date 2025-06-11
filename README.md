@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd year B.Tech CSE student with a strong interest in cybersecurity. I’ve been actively exploring areas like digital forensics, cryptography, and incident response through CTFs, projects, and hands-on labs. I'm building my foundation steadily with the goal of becoming a skilled and ethical cybersecurity professional.
+Hi! I am Gurnoor, a 2nd year B.Tech CSE student with a strong interest in cybersecurity. I’ve been actively exploring areas like digital forensics, cryptography, and incident response through CTFs, projects, and hands-on labs. I'm building my foundation steadily with the goal of becoming a skilled and ethical cybersecurity professional.
 
 
 ## 🌐 Socials:
